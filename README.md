@@ -1,5 +1,5 @@
 <h1>👋 Hi, I'm Jean Baptiste Mugisha</h1>
-<p>A passionate software engineering student from Rwanda, focused on building scalable platforms that empower youth and connect diaspora communities.</p>
+<p>A passionate software engineering student from Rwanda, focused on building scalable platforms </p>
 
 <hr />
 
@@ -23,7 +23,7 @@
 <h2>🚀 Projects</h2>
 <h3>🔗 ElevateLink</h3>
 <p>Scalable backend architecture for diaspora mentorship engagement.<br />
-Tech: Node.js · Express · PostgreSQL · Prisma<br />
+Tech: Node.js · Express · PostgreSQL <br />
 Status: In development</p>
 
 <h3>🌉 ElevateBridge</h3>
