@@ -1,7 +1,6 @@
 <h1>👋 Hi, I'm Jean Baptiste Mugisha</h1>
 <p>A passionate software engineering student from Rwanda, focused on building scalable platforms </p>
 
-<hr />
 
 <h2>🛠️ Tech Stack</h2>
 <ul>
@@ -18,7 +17,7 @@
   <li>🗄️ Oracle Database theory and fault management</li>
 </ul>
 
-<hr />
+
 
 <h2>🚀 Projects</h2>
 <h3>🔗 ElevateLink</h3>
@@ -26,12 +25,8 @@
 Tech: Node.js · Express · PostgreSQL <br />
 Status: In development</p>
 
-<h3>🌉 ElevateBridge</h3>
-<p>Hackathon-winning mentorship platform focused on youth empowerment and sustainability.<br />
-Tech: React · Tailwind CSS · Firebase<br />
-Status: MVP deployed</p>
 
-<hr />
+
 
 <h2>📈 GitHub Stats</h2>
 <p>
@@ -41,7 +36,7 @@ Status: MVP deployed</p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mugisha12john&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<hr />
+
 
 <h2>🏆 Highlights</h2>
 <ul>
@@ -51,7 +46,7 @@ Status: MVP deployed</p>
   <li>Strong focus on scalable backend systems and youth impact</li>
 </ul>
 
-<hr />
+
 
 <h2>📫 Connect with Me</h2>
 <p>
@@ -63,7 +58,7 @@ Status: MVP deployed</p>
   </a>
 </p>
 
-<hr />
+
 
 <blockquote>
   💬 “Code with purpose. Build with impact.”
